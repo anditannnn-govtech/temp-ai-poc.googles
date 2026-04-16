@@ -1,0 +1,8 @@
+$discard,site=yahoo.com
+$discard,site=facebook.com
+$discard,site=x.com
+$discard,site=instagram.com
+$discard,site=wikipedia.com
+$boost=5,site=shopee.sg
+$boost=5,site=lazada.sg
+$boost=5,site=amazon.sg

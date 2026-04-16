@@ -1,3 +1,8 @@
+! name: Temp Price searching AI POC Googles
+! description: Temp Price searching AI POC Googles for Brave Search API
+! public: false
+! author: Andi Tan
+
 $discard,site=yahoo.com
 $discard,site=facebook.com
 $discard,site=x.com

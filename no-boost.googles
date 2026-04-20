@@ -1,0 +1,25 @@
+! name: Temp Price searching AI POC Googles - no boost
+! description: Temp Price searching AI POC Googles for Brave Search API
+! public: false
+! author: Andi Tan
+
+$discard,site=yahoo.com
+$discard,site=facebook.com
+$discard,site=x.com
+$discard,site=instagram.com
+$discard,site=wikipedia.com
+$discard,site=reddit.com
+$discard,site=hardwarezone.com.sg
+$discard,site=seedly.sg
+$discard,site=sammyboy.com
+$discard,site=forums.hardwarezone.com.sg
+$discard,site=carousell.sg
+$discard,site=facebook.com
+$discard,site=t.me
+$discard,site=chope.co
+$discard,site=burpple.com
+$discard,site=propertyguru.com.sg
+$discard,site=99.co
+$discard,site=renopedia.sg
+$discard,site=singsaver.com.sg
+$discard,site=sgpromos.com
